@@ -1,0 +1,13 @@
+/Users/kseniagustsenko/Desktop/SunsetSunrise/SunsetSunrise/obj/Debug/netcoreapp3.0/SunsetSunrise.csprojAssemblyReference.cache
+/Users/kseniagustsenko/Desktop/SunsetSunrise/SunsetSunrise/obj/Debug/netcoreapp3.0/SunsetSunrise.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/SunsetSunrise/SunsetSunrise/obj/Debug/netcoreapp3.0/SunsetSunrise.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/SunsetSunrise/SunsetSunrise/bin/Debug/netcoreapp3.0/SunsetSunrise
+/Users/kseniagustsenko/Desktop/SunsetSunrise/SunsetSunrise/bin/Debug/netcoreapp3.0/SunsetSunrise.deps.json
+/Users/kseniagustsenko/Desktop/SunsetSunrise/SunsetSunrise/bin/Debug/netcoreapp3.0/SunsetSunrise.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/SunsetSunrise/SunsetSunrise/bin/Debug/netcoreapp3.0/SunsetSunrise.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/SunsetSunrise/SunsetSunrise/bin/Debug/netcoreapp3.0/SunsetSunrise.dll
+/Users/kseniagustsenko/Desktop/SunsetSunrise/SunsetSunrise/bin/Debug/netcoreapp3.0/SunsetSunrise.pdb
+/Users/kseniagustsenko/Desktop/SunsetSunrise/SunsetSunrise/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/kseniagustsenko/Desktop/SunsetSunrise/SunsetSunrise/obj/Debug/netcoreapp3.0/SunsetSunrise.csproj.CopyComplete
+/Users/kseniagustsenko/Desktop/SunsetSunrise/SunsetSunrise/obj/Debug/netcoreapp3.0/SunsetSunrise.dll
+/Users/kseniagustsenko/Desktop/SunsetSunrise/SunsetSunrise/obj/Debug/netcoreapp3.0/SunsetSunrise.pdb
